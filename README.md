@@ -12,5 +12,6 @@
 
 <img width="1340" height="704" alt="ecomarch23 drawio" src="https://github.com/user-attachments/assets/9cb4a38e-a21b-4b20-91d2-b3a4d5ba2a06" />
 
+<img width="1470" height="834" alt="ecomarch24 drawio" src="https://github.com/user-attachments/assets/2ba22ec7-8b5a-4b09-a74c-c1f3c0eb9672" />
 
 
