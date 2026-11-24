@@ -7,4 +7,5 @@
 
 
 ## Generic structure
-<img width="1470" height="834" alt="ecomarch24 drawio" src="https://github.com/user-attachments/assets/2ba22ec7-8b5a-4b09-a74c-c1f3c0eb9672" />
+<img width="1470" height="834" alt="ecomarch25 drawio" src="https://github.com/user-attachments/assets/6d0328cd-d130-473c-acfa-5aed2e981bea" />
+
