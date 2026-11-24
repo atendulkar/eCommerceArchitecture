@@ -2,7 +2,8 @@
 
 # Architecture diagram for eCommerce application
 ## Base structure
-<img width="527" height="473" alt="ecomarch11" src="https://github.com/user-attachments/assets/a4d11b6f-7b5b-4114-8601-33953589383d" />
+<img width="677" height="623" alt="ecomarch12 drawio" src="https://github.com/user-attachments/assets/1edaad94-fe76-415d-87f1-87b9875a6f10" />
+
 
 
 ## Generic structure
